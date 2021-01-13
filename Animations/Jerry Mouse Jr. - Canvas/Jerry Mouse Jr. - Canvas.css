@@ -1,0 +1,43 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #D5D18A;
+}
+
+#c {
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  margin: -237px 0px 0px -373px;
+}
+
+#img {
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  margin: -237px 0px 0px 5px;
+}
+
+#canvas {
+  top: 50%;
+  left: 50%;
+  width: 372px;
+  height: 474px;
+  position: absolute;
+  margin: -237px 0px 0px -376px;
+  padding: 0px;
+  background-color: #D5D18A;
+  border: 1px solid black;
+}
+
+#canvas1 {
+  top: 50%;
+  left: 50%;
+  width: 372px;
+  height: 474px;
+  position: absolute;
+  margin: -237px 0px 0px 2px;
+  padding: 0px;
+  background-color: #D5D18A;
+  border: 1px solid black;
+}

@@ -1,0 +1,28 @@
+html {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+	background:
+    linear-gradient( transparent 0%, transparent 66.15%, white 66.15%, white 72.3%, transparent 72.3% ) 10px 0px,
+    linear-gradient( 315deg, #bbb 0%, #bbb 9%, transparent 9% ) 0px 0px,
+    linear-gradient( 315deg, #bbb 0%, #bbb 9%, transparent 9% ) -37.6px 0px,
+    linear-gradient( 315deg, #bbb 0%, #bbb 9%, transparent 9% ) -75.85px 0px,
+    linear-gradient( 315deg, #bbb 0%, #bbb 9%, transparent 9% ) -115.1px 0px,
+    linear-gradient( 225deg, #bbb 0%, #bbb 9%, transparent 9% ) 0px 24.65px,
+    linear-gradient( 225deg, #bbb 0%, #bbb 9%, transparent 9% ) -37.6px 24.65px,
+    linear-gradient( 225deg, #bbb 0%, #bbb 9%, transparent 9% ) -75.85px 24.65px,
+    linear-gradient( 225deg, #bbb 0%, #bbb 9%, transparent 9% ) -115.1px 24.65px,
+    linear-gradient( 135deg, #bbb 0%, #bbb 9%, transparent 9% ) 116.6px 24.65px,
+    linear-gradient( 135deg, #bbb 0%, #bbb 9%, transparent 9% ) 77.6px 24.65px,
+    linear-gradient( 135deg, #bbb 0%, #bbb 9%, transparent 9% ) 38.6px 24.65px,
+    linear-gradient( 135deg, #bbb 0%, #bbb 9%, transparent 9% ) 0px 24.65px,
+    linear-gradient( 45deg, #bbb 0%, #bbb 9%, transparent 9% ) 116.6px 0px,
+    linear-gradient( 45deg, #bbb 0%, #bbb 9%, transparent 9% ) 77.6px 0px,
+    linear-gradient( 45deg, #bbb 0%, #bbb 9%, transparent 9% ) 38.6px 0px,
+    linear-gradient( 45deg, #bbb 0%, #bbb 9%, transparent 9% ) 0px 0px,
+    linear-gradient( #bbb 0%, #bbb 38.4%, transparent 38.4%, transparent 100% ) 0px 0px,
+    linear-gradient( 90deg, black 0%, black 25%, white 25%, white 50%, black 50%, black 75%, white 75%, white 100% ) 0px 0px;
+  background-size: 155px 65px;
+  background-color: #bbb;
+}

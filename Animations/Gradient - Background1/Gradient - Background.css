@@ -1,0 +1,65 @@
+
+html {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+	background:
+    linear-gradient(transparent 23%, black 24%, black 27%, transparent 27%, transparent 43%, black 43%, black 46%, transparent 47% ) 0px 0px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 360px 70px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 344px 70px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 328px 70px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 312px 70px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 296px 70px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 280px 70px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 264px 70px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 248px 70px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 232px 70px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 216px 70px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 200px 70px,
+    linear-gradient( 135deg, transparent 0%, transparent 1.6%, black 1.6%, black 2.6%, transparent 2.6%, transparent 4.2%, black 4.2%, black 5.2%, transparent 5.2% ) 200px 70px,
+    linear-gradient( 135deg, transparent 0%, transparent 94.8%, black 94.8%, black 95.8%, transparent 95.8%, transparent 97.4%, black 97.4%, black 98.4%, transparent 98.4% ) 0px -50px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) -360px 70px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) -344px 70px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) -328px 70px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) -312px 70px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) -296px 70px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) -280px 70px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) -264px 70px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) -248px 70px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) -232px 70px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) -216px 70px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) -200px 70px,
+    linear-gradient( 225deg, transparent 0%, transparent 1.6%, black 1.6%, black 2.6%, transparent 2.6%, transparent 4.2%, black 4.2%, black 5.2%, transparent 5.2% ) -200px 70px,
+    linear-gradient( 225deg, transparent 0%, transparent 94.8%, black 94.8%, black 95.8%, transparent 95.8%, transparent 97.4%, black 97.4%, black 98.4%, transparent 98.4% ) 0px -50px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) -160px 0px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) -144px 0px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) -128px 0px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) -112px 0px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) -96px 0px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) -80px 0px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) -64px 0px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) -48px 0px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) -32px 0px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) -16px 0px,
+    linear-gradient( 225deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 0px 0px,
+    linear-gradient( 225deg, transparent 0%, transparent 1.6%, black 1.6%, black 2.6%, transparent 2.6%, transparent 4.2%, black 4.2%, black 5.2%, transparent 5.2% ) 0px 0px,
+    linear-gradient( 225deg, transparent 0%, transparent 94.8%, black 94.8%, black 95.8%, transparent 95.8%, transparent 97.4%, black 97.4%, black 98.4%, transparent 98.4% ) 200px -120px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 160px 0px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 144px 0px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 128px 0px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 112px 0px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 96px 0px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 80px 0px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 64px 0px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 48px 0px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 32px 0px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 16px 0px,
+    linear-gradient( 135deg, transparent 0%, transparent 7%, black 7%, black 8%, transparent 8% ) 0px 0px,
+    linear-gradient( 135deg, transparent 0%, transparent 1.6%, black 1.6%, black 2.6%, transparent 2.6%, transparent 4.2%, black 4.2%, black 5.2%, transparent 5.2% ) 0px 0px,
+    linear-gradient( 135deg, transparent 0%, transparent 94.8%, black 94.8%, black 95.8%, transparent 95.8%, transparent 97.4%, black 97.4%, black 98.4%, transparent 98.4% ) -200px -120px;
+
+  background-size: 400px 160px;
+  background-color: white;
+}

@@ -1,0 +1,12 @@
+html {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background: 
+    linear-gradient( 135deg, transparent 0%, transparent 45%, white 48%, black 52%, transparent 55% ) 0px 0px,
+    linear-gradient( 45deg, transparent 0%, transparent 45%, white 48%, black 52%, transparent 55% ) 0px 0px,
+    linear-gradient( 45deg, blue, yellow, red ) 0px 0px;
+  background-size: 50px 50px, 50px 50px, 100% 100%;
+}

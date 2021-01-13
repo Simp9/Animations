@@ -1,0 +1,15 @@
+html {
+  margin: 0px;
+  padding: 0px;
+}
+
+body { 
+  background:
+    radial-gradient( white 24%, transparent 24%) 0px 0px,
+    linear-gradient(transparent 36.37%, #8A8A8A 36.37% , #8A8A8A 63.63%, transparent 63.63% ) 0px 0px,
+    linear-gradient( 90deg,transparent 36.37%, #8A8A8A 36.37% , #8A8A8A 63.63%, transparent 63.63% ) 0px 0px;
+
+  background-size: 55px 55px;
+  background-color: black;
+}
+

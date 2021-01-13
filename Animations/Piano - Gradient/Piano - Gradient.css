@@ -1,0 +1,15 @@
+html {
+  margin: 0px;
+  padding: 0px;
+}
+
+body { 
+  background:
+    linear-gradient(transparent 99.6%, black 99.6%, black 100%) 0px 0px,
+    linear-gradient(90deg, transparent 0%, transparent 14.0855%, black 14.0855%, black 14.4855%, transparent 14.4855%, transparent 28.27%, black 28.27%, black 28.87%, transparent 28.87%, transparent 42.55%, black 42.55%, black 43.155%, transparent 43.155%,  transparent 56.94%, black 56.94%, black 57.34%, transparent 57.34%, transparent 71.125%, black 71.125%, black 71.725%, transparent 71.725%, transparent 85.31%, black 85.31%, black 85.91%, transparent 85.91%, transparent 99.4%, black 99.4%) 0px 0px,
+    linear-gradient( transparent 60%, white 60%),
+    linear-gradient(90deg, transparent 0%, transparent 10.714%, black 10.714%, black 17.857%, transparent 17.857%, transparent 25%, black 25%, black 32.14%, transparent 32.14%, transparent 53.57%, black 53.57%, black 60.71%, transparent 60.71%, transparent 67.85%, black 67.85%, black 75%, transparent 75%, transparent 82.14%, black 82.14%, black 89.28%, transparent 89.28%, transparent 100%) 0px 0px;
+
+  background-size: 280px 210px;
+  background-repeat: repeat-x;
+}
